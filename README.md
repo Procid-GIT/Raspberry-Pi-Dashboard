@@ -1,6 +1,6 @@
 # Raspberry-Pi-Dashboard
 A Dashboard for my Raspberry Pi Projects.  
-
+you are likely not gonna read all that, but i want u to read all that tho since that is how u understand the project.  Read more, kids.  
 __________________________________________________________
 
 # Summary of Projects on there: 
