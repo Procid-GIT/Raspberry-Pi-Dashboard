@@ -1,6 +1,18 @@
 # Raspberry-Pi-Dashboard
 A Dashboard for my Raspberry Pi Projects.  
 you are likely not gonna read all that, but i want u to read all that tho since that is how u understand the project.  Read more, kids.  
+
+<img width="2559" height="1390" alt="image" src="https://github.com/user-attachments/assets/8b368969-b428-4093-8b1f-46af6bc027aa" />
+<br>
+<img width="1496" height="1496" alt="20260613_225147" src="https://github.com/user-attachments/assets/240e9492-6e9a-4ae5-ba9b-d95d0bf3fdee" />
+<br>
+<img width="1496" height="1496" alt="20260613_225152" src="https://github.com/user-attachments/assets/1ba05a32-a6ab-41df-b109-6665fbc87753" />
+<br>
+<img width="1496" height="1496" alt="20260613_225159" src="https://github.com/user-attachments/assets/249bb7a8-844d-4569-90aa-a1817283b014" />
+<br>
+<img width="1496" height="1496" alt="20260613_225236" src="https://github.com/user-attachments/assets/860dea12-a575-4043-8b33-2cbdd73fd04b" />
+
+
 __________________________________________________________
 
 # Summary of Projects on there: 
