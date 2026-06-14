@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <!-- Links to the css and js scripts, no js, website aint able to communicate with backend and its just the frontend, aint want that!-->
+        <link rel="stylesheet" href="/static/style.css">
+        <script src="/static/script.js" defer></script>
+        <h1>Dashboard for Raspberry Pi</h1>
+    </head>
+    <body>
+        <div class="intro_paragraph">
+            <p>I know it's not much right now, but I mean this is just a project for me to learn it.
+            That way, I can control my Raspberry Pi from my computer, y'know?
+            </p>
+        </div>
+        <!-- Panel for accessories, uses child divs mainly for the purpose of styling-->
+        <div class="status_panel">
+            <div class="temperature">
+                <p id="templabel">Temperature:</p>
+                <p><span id="temp-display">Loading...</span> °C</p>
+            </div>
+        </div>
+        <br>
+        <!-- Buttons- for doing stuff on the Raspberry pi -->
+        <div class="Buttons">
+            <div class="LED"><button type="button" id="LED">Turn on LED</button></div>
+        </div>
+        <!-- For AI projects I'm running on the Raspberry Pi... -->
+        <div class="AI_Panel">
+            <div class="ClassificationPredict">
+                <p id="PredictLabelHeader">Classification Model Status:</p>
+                <p><span id="prediction">Loading...</span></p>
+            </div>
+        </div>
+
+        <div class="Video_Feed">
+            
+            <div class="video-wrapper">
+                <h3>Live Feed </h3>
+                <img id="camera-stream" alt="Loading live camera stream..." style="width: 100%;" />
+            </div>
+            <script>
+                const currentIP = window.location.hostname; 
+                document.getElementById('camera-stream').src = `http://${currentIP}:5001/video-feed`;
+
+            </script>
+            
+    </body>
+</html>
