@@ -43,3 +43,7 @@ they don't always have to memorize the exact characters to type.  But I mean at 
 some logic but at the end of the day, its still my work.  
 
 srry for repetition, i just do that all the time whenever i try to write or say anything.
+
+# How to install?  
+
+Just clone it, duh....  this is more of a personal project also... mainly for my own use, but you can clone it and install it if you want to.  
