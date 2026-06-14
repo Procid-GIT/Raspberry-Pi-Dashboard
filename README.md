@@ -3,7 +3,7 @@ A Dashboard for my Raspberry Pi Projects.
 
 __________________________________________________________
 
-Summary of Projects on there: 
+# Summary of Projects on there: 
 
 System Status:  As of now, there is only measuring temperature on there. 
 
