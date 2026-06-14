@@ -2,6 +2,8 @@
 A Dashboard for my Raspberry Pi Projects.  
 you are likely not gonna read all that, but i want u to read all that tho since that is how u understand the project.  Read more, kids.  
 
+ALSO, THIS PROJECT IS DESIGNED FOR RASPBERRY PI.  IT MIGHT BE TOTALLY USELESS ON ANOTHER COMPUTER BESIDES RASPBERRY PI.  
+
 <img width="2559" height="1390" alt="image" src="https://github.com/user-attachments/assets/8b368969-b428-4093-8b1f-46af6bc027aa" />
 <br>
 <img width="1496" height="1496" alt="20260613_225147" src="https://github.com/user-attachments/assets/240e9492-6e9a-4ae5-ba9b-d95d0bf3fdee" />
